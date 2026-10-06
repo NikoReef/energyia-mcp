@@ -1,0 +1,13 @@
+{
+  "name": "energyia",
+  "displayName": "EnergyIA.AR",
+  "version": "1.0.0",
+  "description": "Official Argentine data on oil & gas, mining, electricity, fuels, energy trade and RIGI investment projects, normalized and cited with source and period. Remote MCP server with OAuth (sign-in with your email).",
+  "author": { "name": "Nicolás Matías Chiarini", "url": "https://energyia.ar" },
+  "homepage": "https://energyia.ar",
+  "repository": "https://github.com/NikoReef/energyia-mcp",
+  "license": "MIT",
+  "logo": "https://energyia.ar/brand/icono-conector.png",
+  "keywords": ["argentina", "energy", "oil", "gas", "vaca muerta", "mining", "electricity", "rigi", "mcp"],
+  "mcpServers": "./.mcp.json"
+}
